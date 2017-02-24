@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<t:tracklist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.example.com/tracklist tracklist.xsd"
+           xmlns:t="http://www.example.com/tracklist">
+    <track author="Queen">
+        <name>Queen - We will rock you</name>
+        <duration>2.49</duration>
+        <style>ROCK</style>
+    </track>
+    <track author="Mozart">
+        <name>Mozart - Requiem</name>
+        <duration>4.59</duration>
+        <style>CLASSIC</style>
+    </track>
+    <track author="Nickelback">
+        <name>Nickelback - S.E.X.</name>
+        <duration>3.53</duration>
+        <style>ALTERNATIVE</style>
+    </track>
+</t:tracklist>
